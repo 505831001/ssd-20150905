@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssd-20150905:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7737ade-45af-4dfd-8dd3-3f832b000c6b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/handler/EmployeeHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1558">
+              <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/test/CTXTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/test/MyBatisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/test/SSSPTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>EmployeeExample</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Employee</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/repository/DepartmentRepository.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/repository/EmployeeRepository.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/test/SSSPTest.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/springDispatcherServlet-servlet.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/classes/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/db.properties" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/views/emp/list.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/mapper/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/mapper/DepartmentMapper.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/mapper/EmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/mapper/DepartmentMapper.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/sql/mysql.sql" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/service/TbItemDubboServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/service/DepartmentService.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/service/DepartmentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/service/impl/EmployeeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/service/EmployeeService.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/handler/EmployeeHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/entity/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/entity/Department.java" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/test/CTXTest.java" />
+        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/com/liuweiwei/test/MyBatisTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="452" />
+    <option name="y" value="106" />
+    <option name="width" value="1470" />
+    <option name="height" value="938" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssd-20150905" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssd-20150905" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace-idea\ssd-20150905\web\WEB-INF\lib" />
+      <recent name="D:\workspace-idea\ssd-20150905\src\com\liuweiwei\service" />
+      <recent name="D:\workspace-idea\ssd-20150905\src\com\liuweiwei\sql" />
+      <recent name="D:\workspace-idea\ssd-20150905\src\com\liuweiwei\entity" />
+      <recent name="D:\workspace-idea\ssd-20150905\src\com\liuweiwei\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.91">
+    <configuration name="CTXTest.ctxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssd-20150905" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuweiwei.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuweiwei.test" />
+      <option name="MAIN_CLASS_NAME" value="com.liuweiwei.test.CTXTest" />
+      <option name="METHOD_NAME" value="ctxTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.mybatisConnDBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssd-20150905" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuweiwei.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuweiwei.test" />
+      <option name="MAIN_CLASS_NAME" value="com.liuweiwei.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="mybatisConnDBTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSSPTest.testJpaSecondLevelCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssd-20150905" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuweiwei.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuweiwei.test" />
+      <option name="MAIN_CLASS_NAME" value="com.liuweiwei.test.SSSPTest" />
+      <option name="METHOD_NAME" value="testJpaSecondLevelCache" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSSPTest.testRepositorySecondLevelCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssd-20150905" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuweiwei.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuweiwei.test" />
+      <option name="MAIN_CLASS_NAME" value="com.liuweiwei.test.SSSPTest" />
+      <option name="METHOD_NAME" value="testRepositorySecondLevelCache" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.91" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.91" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <deployment>
+        <artifact name="ssd-20150905:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_91_ssd-20150905" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63121" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssd-20150905:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CTXTest.ctxTest" />
+        <item itemvalue="JUnit.SSSPTest.testRepositorySecondLevelCache" />
+        <item itemvalue="JUnit.SSSPTest.testJpaSecondLevelCache" />
+        <item itemvalue="JUnit.MyBatisTest.mybatisConnDBTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7737ade-45af-4dfd-8dd3-3f832b000c6b" name="Default Changelist" comment="" />
+      <created>1584622131759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584622131759</updated>
+      <workItem from="1584622133206" duration="248000" />
+      <workItem from="1584622384441" duration="93000" />
+      <workItem from="1584622479121" duration="3221000" />
+      <workItem from="1584625849041" duration="331000" />
+      <workItem from="1584670693651" duration="4883000" />
+      <workItem from="1584677947272" duration="457000" />
+      <workItem from="1584678438967" duration="1732000" />
+      <workItem from="1584680175660" duration="688000" />
+      <workItem from="1584684770807" duration="2209000" />
+      <workItem from="1584686984427" duration="8042000" />
+      <workItem from="1584760377885" duration="56000" />
+      <workItem from="1584863982798" duration="76000" />
+      <workItem from="1584871710245" duration="47000" />
+      <workItem from="1584872012138" duration="14000" />
+      <workItem from="1584876784353" duration="154000" />
+      <workItem from="1584931747351" duration="23000" />
+      <workItem from="1584931828140" duration="17000" />
+      <workItem from="1584944369620" duration="3000" />
+      <workItem from="1585453586435" duration="129000" />
+      <workItem from="1585477889976" duration="46000" />
+      <workItem from="1589811652717" duration="615000" />
+      <workItem from="1596175708352" duration="602000" />
+      <workItem from="1596272326030" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyBatisTest_mybatisConnDBTest - 2020.03.20 at 11h 51m 36s.xml">
+      <configuration name="MyBatisTest.mybatisConnDBTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_mybatisConnDBTest - 2020.03.20 at 11h 55m 48s.xml">
+      <configuration name="MyBatisTest.mybatisConnDBTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_mybatisConnDBTest - 2020.03.20 at 12h 22m 17s.xml">
+      <configuration name="MyBatisTest.mybatisConnDBTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_mybatisConnDBTest - 2020.03.20 at 12h 23m 30s.xml">
+      <configuration name="MyBatisTest.mybatisConnDBTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_mybatisConnDBTest - 2020.03.20 at 12h 25m 42s.xml">
+      <configuration name="MyBatisTest.mybatisConnDBTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSSPTest_testJpaSecondLevelCache - 2020.03.20 at 12h 38m 31s.xml">
+      <configuration name="SSSPTest.testJpaSecondLevelCache" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SSSPTest_testRepositorySecondLevelCache - 2020.03.20 at 12h 38m 44s.xml">
+      <configuration name="SSSPTest.testRepositorySecondLevelCache" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTXTest_ctxTest - 2020.03.20 at 15h 00m 37s.xml">
+      <configuration name="CTXTest.ctxTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTXTest_ctxTest - 2020.03.20 at 15h 01m 34s.xml">
+      <configuration name="CTXTest.ctxTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTXTest_ctxTest - 2020.03.20 at 15h 14m 03s.xml">
+      <configuration name="CTXTest.ctxTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23884000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="452" y="106" width="1470" height="938" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23617022" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32997987" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5777414" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3289689" />
+      <window_info anchor="bottom" id="Analysis" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/scripts/jquery-1.9.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ehcache.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/emp/input.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/emp/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" selection-start-line="28" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-data-jpa-1.4.2.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="176" column="19" selection-start-line="176" selection-start-column="19" selection-end-line="176" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-data-commons-1.6.2.RELEASE.jar!/org/springframework/data/domain/Pageable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/mapper/EmployeeMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/mapper/DepartmentMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/mapper/DepartmentMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/mapper/EmployeeMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/mapper/UserMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/mapper/UserMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/sql/mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-data-commons-1.6.2.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/service/TbItemDubboServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/entity/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/entity/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/entity/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/repository/DepartmentRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#17#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/repository/EmployeeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/service/EmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/service/impl/DepartmentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="20" selection-start-line="20" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/service/DepartmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/service/impl/EmployeeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="29" selection-start-line="29" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/springDispatcherServlet-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/test/CTXTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/test/MyBatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/test/SSSPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/handler/EmployeeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ssd-20150905:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (ssd-20150905)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|ssd-20150905</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

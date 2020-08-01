@@ -1,0 +1,36 @@
+package com.liuweiwei.entity;
+
+import javax.persistence.Cacheable;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import java.io.Serializable;
+
+@Cacheable
+@Table(name="SSSP_DEPARTMENTS")
+@Entity
+public class Department implements Serializable {
+
+	private Integer id;
+	private String departmentName;
+
+	@GeneratedValue
+	@Id
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
+	public String getDepartmentName() {
+		return departmentName;
+	}
+
+	public void setDepartmentName(String departmentName) {
+		this.departmentName = departmentName;
+	}
+
+}
