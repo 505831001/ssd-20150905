@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7737ade-45af-4dfd-8dd3-3f832b000c6b" name="Default Changelist" comment="[2020-8-1]liuweiwei-ssd-20150905">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[2020-8-1]liuweiwei-ssd-20150905.patch" beforeDir="false" />
-    </list>
+    <list default="true" id="c7737ade-45af-4dfd-8dd3-3f832b000c6b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -394,7 +391,7 @@
       <workItem from="1589811652717" duration="615000" />
       <workItem from="1596175708352" duration="602000" />
       <workItem from="1596272326030" duration="631000" />
-      <workItem from="1596272960456" duration="312000" />
+      <workItem from="1596272960456" duration="461000" />
     </task>
     <task id="LOCAL-00001" summary="[2020-8-1]liuweiwei-ssd-20150905">
       <created>1596272727953</created>
@@ -410,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596272782189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[2020-8-1]liuweiwei-ssd-20150905">
+      <created>1596273340161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596273340161</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -446,7 +450,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24629000" />
+    <option name="totallyTimeSpent" value="24778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="452" y="106" width="1470" height="938" extended-state="0" />
